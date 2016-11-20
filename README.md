@@ -9,7 +9,11 @@ $ tree
 ├── bin
 │   ├── .gitkeep
 │   └── main.out        #=> OUTPUT
-└── main.cpp
+├── lib
+│   ├── hoge.cpp
+│   └── hoge.hpp
+├── main.cpp
+└── main.hpp
 ```
 
 ## How to use
