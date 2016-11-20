@@ -10,6 +10,7 @@ $ tree
 │   ├── .gitkeep
 │   └── main.out        #=> OUTPUT
 ├── lib
+│   ├── CMakeLists.txt
 │   ├── hoge.cpp
 │   └── hoge.hpp
 ├── main.cpp
